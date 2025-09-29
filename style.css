@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #dec9d6;
+    background-color: #1a1a1a;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -20,7 +20,7 @@ body {
     gap: 1rem;
     width: 60%;
     max-width: 800px;
-    background-color: #764d62;
+    background-color: #282828;
     padding: 25px;
     border-radius: 15px;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
